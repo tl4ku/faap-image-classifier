@@ -1,6 +1,6 @@
-# Future AWS AI Programmer - Image Classifier
+# Image Classifier
 
-This project is part of Udacity's **Future AWS Programmer** Nanodegree. It uses pretrained CNN model architectures (ResNet, AlexNet, and VGG) to classify images of pets, determine whether each image is of a dog or not, and — for dog images — identify the breed. The goal is to compare the three architectures and determine which one performs best across both objectives.
+This project is part of Udacity's **Future AWS Programmer** Nanodegree. It uses pretrained CNN model architectures (ResNet, AlexNet, and VGG) to classify images of pets, determine whether each image is of a dog or not, and — for dog images - identify the breed. The goal is to compare the three architectures and determine which one performs best across both objectives.
 
 ## Project Objectives
 
